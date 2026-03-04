@@ -4,11 +4,6 @@ A simple and user-friendly TO-DO List web application built with **Flask**, feat
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-live-link.onrender.com  
-
----
-
 ## 📌 Features
 
 ✅ User Registration & Login  
